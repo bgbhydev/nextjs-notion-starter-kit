@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Home-fc8f2fd7b70e449ead0826881f3dfff1',
+  rootNotionPageId: 'BoGe-b9c6eb875dcb41588d3bba49bf49a315',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '博哥资源库',
-  domain: 'https://flame-darkness-1b6.notion.site/Home-fc8f2fd7b70e449ead0826881f3dfff1',
+  domain: 'https://flame-darkness-1b6.notion.site/BoGe-b9c6eb875dcb41588d3bba49bf49a315',
   author: '张博',
 
   // open graph metadata (optional)
